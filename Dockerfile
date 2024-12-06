@@ -8,8 +8,11 @@ WORKDIR /srv/jekyll
 # Kopieer de huidige directory inhoud naar /srv/jekyll in de container
 COPY . .
 
+# Voeg het huidige platform toe aan de lockfile
+RUN bundle lock --add-platform x86_64-linux
+
 # Installeer de bundels
-RUN bundle install
+RUN bundle config set force_ruby_platform true && bundle install
 
 # Exposeer poort 4000
 EXPOSE 4000
