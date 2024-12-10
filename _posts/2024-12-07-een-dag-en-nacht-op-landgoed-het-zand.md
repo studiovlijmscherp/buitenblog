@@ -6,6 +6,9 @@ categories: [ Kamperen ]
 tags: [ Natuurcamping ]
 image: assets/images/2.jpg
 rating: 4.5
+comments: false
+description: "Something about this post here"
+
 ---
 
 **Zaterdag 7 december** - Aangekomen op Landgoed Het Zand, iets vroeger dan gepland, troffen mijn broer Edwin en ik de eigenaresse Emma aan, samen met een paar andere buitenmensen, druk in de weer op het pad richting de receptie. Emma was zo vriendelijk om met ons mee te rijden naar de receptie om ons in te schrijven. Met veel enthousiasme vertelde ze ons over de verschillende plekjes waar we konden kamperen, en waarschuwde ze ons voor de natte plekken door de regen van de afgelopen weken. Met een plattegrond in de hand gingen we op zoek naar onze eerste optie: ‘De Konijnenwei’.
